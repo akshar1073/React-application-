@@ -1,0 +1,60 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   README.md
+#	new file:   module1.mjs
+#	new file:   module2.mjs
+#	new file:   package-lock.json
+#	new file:   package.json
+#	new file:   public/android-icon-144x144.png
+#	new file:   public/android-icon-192x192.png
+#	new file:   public/android-icon-36x36.png
+#	new file:   public/android-icon-48x48.png
+#	new file:   public/android-icon-72x72.png
+#	new file:   public/android-icon-96x96.png
+#	new file:   public/apple-icon-114x114.png
+#	new file:   public/apple-icon-120x120.png
+#	new file:   public/apple-icon-144x144.png
+#	new file:   public/apple-icon-152x152.png
+#	new file:   public/apple-icon-180x180.png
+#	new file:   public/apple-icon-57x57.png
+#	new file:   public/apple-icon-60x60.png
+#	new file:   public/apple-icon-72x72.png
+#	new file:   public/apple-icon-76x76.png
+#	new file:   public/apple-icon-precomposed.png
+#	new file:   public/apple-icon.png
+#	new file:   public/browserconfig.xml
+#	new file:   public/favicon-16x16.png
+#	new file:   public/favicon-32x32.png
+#	new file:   public/favicon-96x96.png
+#	new file:   public/favicon.ico
+#	new file:   public/index.html
+#	new file:   public/manifest.json
+#	new file:   public/ms-icon-144x144.png
+#	new file:   public/ms-icon-150x150.png
+#	new file:   public/ms-icon-310x310.png
+#	new file:   public/ms-icon-70x70.png
+#	new file:   public/robots.txt
+#	new file:   src/App.css
+#	new file:   src/App.js
+#	new file:   src/App.test.js
+#	new file:   src/components/About.js
+#	new file:   src/components/Alert.js
+#	new file:   src/components/Navbar.js
+#	new file:   src/components/TextForm.js
+#	new file:   src/index.css
+#	new file:   src/index.js
+#	new file:   src/logo.svg
+#	new file:   src/reportWebVitals.js
+#	new file:   src/setupTests.js
+#
+# Untracked files:
+#	React-application-/
+#
